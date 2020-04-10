@@ -1,0 +1,8 @@
+[package]
+name = "enigma-m4-rust"
+version = "0.1.0"
+authors = ["Evan Moulson <moulson.evan@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+clap = "2.*.*"
